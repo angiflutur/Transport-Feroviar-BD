@@ -33,3 +33,4 @@ respective
 - Stația de plecare și cea de sosire trebuie să fie diferite
 - Fiecare bilet trebuie să aibă data și ora plecării, respectiv sosirii
 - Un pasager poate rezerva un singur bilet
+![Diagrama](https://user-images.githubusercontent.com/94394449/235163232-ccf141e4-0940-461f-ac68-c56e5805f39d.jpg)
